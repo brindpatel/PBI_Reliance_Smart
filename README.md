@@ -26,6 +26,7 @@ Returns vs Previous Month: Analyzes the change in product return rates over time
 
 
 ⚙️ Features
+
 DAX Functions for Calculations: Utilized to calculate revenue, profit, and return metrics.
 Data Cleaning & Transformation: Performed to ensure data accuracy and consistency before modeling.
 Data Standardization: Ensured uniform data structure for analysis.
@@ -34,12 +35,14 @@ Interactive Dashboard: Filters for exploring revenue, profit, and returns by sto
 
 
 📈 Insights and Conclusions
+
 Revenue growth has shown a steady increase, with grocery and household items being the top-selling categories.
 Profit margins are highest in medium-sized stores located in Tier 2 cities, highlighting potential for expansion in these areas.
 Return rates for electronics continue to rise, suggesting a need to improve product quality or customer service in that category.
 
 
 🛠️ Tools Used
+
 Power BI: For dashboard creation, data modeling, and visualization.
 DAX Functions: For performing calculations and creating KPIs.
 Power Query: Used for data cleaning, transformation, and standardization.
