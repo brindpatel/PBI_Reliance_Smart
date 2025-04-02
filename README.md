@@ -9,18 +9,30 @@ The report leverages data transformation, modeling, and DAX functions to generat
 The analysis is based on seven key tables:
 
 Stores: Data on store locations, sizes, and types.
+
 Calendars: Date-related information (day, month, year) to analyze sales trends.
+
 Customers: Customer demographics and purchasing behavior.
+
 Regions: Geographic locations and regions of stores.
+
 Transactions: Records of sales, including items sold, prices, and quantities.
+
 Returns: Tracks items returned by customers and reasons for returns.
+
 Products: Details on products sold, including categories, prices, and availability.
+
+
 📊 Key Performance Indicators (KPIs)
 The dashboard focuses on the following KPIs, comparing each to the previous month:
 
 Revenue vs Previous Month: Tracks monthly revenue growth or decline.
+
 Profit vs Previous Month: Monitors profit trends on a month-over-month basis.
+
 Returns vs Previous Month: Analyzes the change in product return rates over time.
+
+
 ⚙️ Features
 DAX Functions for Calculations: Utilized to calculate revenue, profit, and return metrics.
 Data Cleaning & Transformation: Performed to ensure data accuracy and consistency before modeling.
