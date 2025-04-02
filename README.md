@@ -1,7 +1,9 @@
 Reliance Smart Analysis Report
+
 🔍 Project Overview
 
-This project presents a comprehensive analysis of Reliance Smart's sales performance, customer behavior, and inventory management using a Power BI dashboard. The report leverages data transformation, modeling, and DAX functions to generate insights on key metrics like revenue, profit, and returns, comparing them to previous months for trend analysis.
+This project presents a comprehensive analysis of Reliance Smart's sales performance, customer behavior, and inventory management using a Power BI dashboard.
+The report leverages data transformation, modeling, and DAX functions to generate insights on key metrics like revenue, profit, and returns, comparing them to previous months for trend analysis.
 
 📁 Dataset Overview
 The analysis is based on seven key tables:
